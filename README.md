@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve worked in entertainment for over 12 years, and I’m passionate about combining creativity with analytics to tell compelling stories through data.
 
-![Fun Fact](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Fun Fact](https://dribbble.com/shots/2446485-Data-Visualization-Hover-Animation?utm_source=Clipboard_Shot&utm_campaign=oliviagsutanto&utm_content=Data%20Visualization%20Hover%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=oliviagsutanto&utm_content=Data%20Visualization%20Hover%20Animation&utm_medium=Social_Share)
 ```
 
 You can customize the badges and images to suit your style and preferences.
